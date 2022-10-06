@@ -1,0 +1,33 @@
+.testimonial {
+    margin-bottom: 200px;
+}
+.testimonial .box {
+    box-shadow: var(--box_shadow);
+    padding: 20px;
+    position: relative;
+}
+.testimonial .box:hover {
+    background: var(--main);
+    color: #000;
+    transform: scale(1.05);
+    cursor: no-drop;
+}
+.testimonial .box img {
+    position: absolute;
+    height: 150px;
+    width: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    right: 0;
+}
+.testimonial .mid {
+    margin-top: 50px;
+}
+.testimonial .box h6 {
+    font-size: 35px;
+    font-weight: 600;
+}
+.testimonial .box p {
+    font-size: 14px;
+    
+}
