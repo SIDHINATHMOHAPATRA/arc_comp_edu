@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/arc_comp_edu/static/css/main.d4e7eb5e.css",
+    "main.js": "/arc_comp_edu/static/js/main.3cf3daf8.js",
+    "static/media/2-testimoni.jpg": "/arc_comp_edu/static/media/2-testimoni.a006ead550662998f6ba.jpg",
+    "static/media/3-DLC.jpg": "/arc_comp_edu/static/media/3-DLC.6ef4a1d5d1ebb2e3ef3b.jpg",
+    "static/media/1-testimoni.jpg": "/arc_comp_edu/static/media/1-testimoni.494218b3ba918e1ae735.jpg",
+    "static/media/4-Tally.jpg": "/arc_comp_edu/static/media/4-Tally.c84c10c37d79e5c15536.jpg",
+    "static/media/2-DCA.jpg": "/arc_comp_edu/static/media/2-DCA.54b6432003d5ef17f3ff.jpg",
+    "static/media/3-testimoni.jpg": "/arc_comp_edu/static/media/3-testimoni.383814ae2b627663560c.jpg",
+    "static/media/header3.jpg": "/arc_comp_edu/static/media/header3.66e94c89af57773f7985.jpg",
+    "index.html": "/arc_comp_edu/index.html",
+    "main.d4e7eb5e.css.map": "/arc_comp_edu/static/css/main.d4e7eb5e.css.map",
+    "main.3cf3daf8.js.map": "/arc_comp_edu/static/js/main.3cf3daf8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4e7eb5e.css",
+    "static/js/main.3cf3daf8.js"
+  ]
+}
